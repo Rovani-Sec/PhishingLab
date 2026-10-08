@@ -36,3 +36,15 @@
           │ Splunk Forwarder  │              └────────────────────┘
           └───────────────────┘
 ```
+
+
+E logo abaixo uma explicação curta:
+
+### Fluxo do laboratório
+
+1. O usuário acessa o e-mail de teste pelo Mailpit.
+2. O clique no link direciona o navegador ao servidor GoPhish.
+3. O Sysmon registra as conexões de rede no endpoint.
+4. O Splunk Universal Forwarder envia os eventos para o Splunk Enterprise.
+5. O Suricata monitora o tráfego entre as redes e gera alertas de rede.
+6. As evidências do GoPhish, Sysmon/Splunk e Suricata são correlacionadas durante a investigação.
