@@ -40,7 +40,8 @@ Clicked Link
 - infraestrutura: `10.10.10.101`;
 - status final: `Clicked Link`.
 
-![Timeline da campanha no GoPhish](screenshots/02-gopish-timeline.png)
+<img width="1877" height="948" alt="02-gopish-timeline" src="https://github.com/user-attachments/assets/8d5f6fd8-4464-477f-b38b-a8a913b1bff4" />
+
 
 ### Mapeamento
 
@@ -80,8 +81,8 @@ Destination IP: 10.10.10.101
 Destination Port: 80
 Protocol: TCP
 ```
+<img width="1533" height="575" alt="06-splunk-event-timeline" src="https://github.com/user-attachments/assets/4869976f-6df5-46fd-86a7-aa37386aa3bf" />
 
-![Timeline dos eventos no Splunk](screenshots/06-splunk-event-timeline.png)
 
 ### Mapeamento
 
@@ -116,7 +117,8 @@ ET INFO Gophish X-Server
 
 ### Evidência
 
-![Alerta do GoPhish no Suricata](screenshots/07-suricata-gophish-alerta.png)
+<img width="806" height="763" alt="07-suricata-gophish-alerta" src="https://github.com/user-attachments/assets/6f34c808-571a-4637-bb23-8a13514f3bcf" />
+
 
 ### Mapeamento
 
