@@ -56,7 +56,8 @@ O GoPhish registrou a sequência completa da interação do usuário:
 
 A evidência demonstra que o e-mail foi entregue, aberto e que o link foi efetivamente clicado.
 
-![Timeline da campanha no GoPhish](screenshots/02-gopish-timeline.png)
+<img width="1877" height="948" alt="02-gopish-timeline" src="https://github.com/user-attachments/assets/01ab8b87-f08c-4816-a506-9a74e97a773e" />
+
 
 ---
 
@@ -90,7 +91,8 @@ estabelecendo comunicação TCP com:
 
 A porta `8025` corresponde ao acesso à interface web do **Mailpit**, enquanto a porta `80` corresponde ao acesso à **landing page do GoPhish**.
 
-![Timeline de eventos no Splunk](screenshots/06-splunk-event-timeline.png)
+<img width="1533" height="575" alt="06-splunk-event-timeline" src="https://github.com/user-attachments/assets/d3feccf1-f24b-45d4-a82c-bf47171cb245" />
+
 
 ### Resultado observado
 
@@ -117,7 +119,8 @@ Time:        20:59:38
 
 A direção registrada representa a resposta HTTP enviada pelo servidor GoPhish ao endpoint vítima.
 
-![Alerta do GoPhish no Suricata](screenshots/07-suricata-gophish-alerta.png)
+<img width="806" height="763" alt="07-suricata-gophish-alerta" src="https://github.com/user-attachments/assets/cda1c5c0-f299-4ea8-b78f-ae4df0aa6231" />
+
 
 ---
 
