@@ -29,7 +29,8 @@ A timeline registrou:
 
 O evento **Clicked Link** foi utilizado como ponto de partida para a investigação nas demais fontes.
 
-![Timeline da campanha no GoPhish](screenshots/02-gopish-timeline.png)
+<img width="1877" height="948" alt="02-gopish-timeline" src="https://github.com/user-attachments/assets/7f15f5ec-81ea-41ea-bb75-34979ea689eb" />
+
 
 ---
 
@@ -92,7 +93,8 @@ Windows10
 
 A evidência abaixo confirma a ingestão dos eventos do Sysmon pelo SIEM.
 
-![Ingestão do Sysmon no Splunk](screenshots/05-splunk-sysmon-ingestion.png)
+<img width="1500" height="785" alt="05-splunk-sysmon-ingestion" src="https://github.com/user-attachments/assets/5b974111-4609-45cf-b8df-c8cd10a49585" />
+
 
 ---
 
@@ -139,7 +141,8 @@ A análise mostrou o Microsoft Edge estabelecendo conexões com:
 
 A porta `8025` corresponde à interface web do Mailpit, enquanto a porta `80` corresponde ao acesso ao servidor GoPhish.
 
-![Timeline dos eventos no Splunk](screenshots/06-splunk-event-timeline.png)
+<img width="1533" height="575" alt="06-splunk-event-timeline" src="https://github.com/user-attachments/assets/bfbbf111-e083-4a3b-b70d-602dc73c275b" />
+
 
 ---
 
@@ -164,7 +167,8 @@ Time:        20:59:38
 
 Esse alerta confirma a existência de tráfego HTTP associado ao servidor GoPhish.
 
-![Alerta do GoPhish no Suricata](screenshots/07-suricata-gophish-alerta.png)
+<img width="806" height="763" alt="07-suricata-gophish-alerta" src="https://github.com/user-attachments/assets/673dcaa0-ebd4-4341-9279-94c396e5f0dc" />
+
 
 ---
 
