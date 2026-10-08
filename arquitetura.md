@@ -37,8 +37,7 @@
           └───────────────────┘
 ```
 
-
-E logo abaixo uma explicação curta:
+---
 
 ### Fluxo do laboratório
 
