@@ -56,7 +56,7 @@ O GoPhish registrou a sequência completa da interação do usuário:
 
 A evidência demonstra que o e-mail foi entregue, aberto e que o link foi efetivamente clicado.
 
-![Timeline da campanha no GoPhish](screenshots/02-gopish-timeline.png)
+![Timeline da campanha no GoPhish](screenshots/02-gophish-timeline.png)
 
 ---
 
