@@ -1,3 +1,8 @@
+<img width="1672" height="941" alt="capa-lab-phishing" src="https://github.com/user-attachments/assets/ea59c736-662b-4e39-9017-8f479999ba43" />
+
+
+
+
 # PhishingLab — Investigação SOC de Phishing
 
 Laboratório prático de **SOC / Blue Team** criado para simular uma campanha de phishing e investigar a atividade utilizando múltiplas fontes de telemetria.
